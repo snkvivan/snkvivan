@@ -6,8 +6,11 @@
 
 ---
 
-## A litle about me
-
+## 🎯 A little about me
+ I`m a manual QA web engineer. <br>
+ I always strive to learn something new and apply the acquired knowledge at work.<br>
+ My best soft skills is personal and creative skills.<br>
+ I like to solve complex problems and bring the final product to ideal. <br>
 ---
 
 ## 🛠️ Languages and Tools
@@ -45,3 +48,43 @@
 
 ---
 
+## 🌍 Languages i speak
+
+<div>
+
+![Russian](https://img.shields.io/badge/Russian-Native-464451?style=for-the-badge)
+![English](https://img.shields.io/badge/English-B1-464451?style=for-the-badge)
+
+</div>
+
+---
+
+## 📬 Let's get in touch here!
+
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-@ivansnkv-blue?style=for-the-badge&logo=telegram)](https://t.me/ivansnkv)
+[![Email](https://img.shields.io/badge/Email-snkv.ivan@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:snkv.ivan@gmail.com)
+
+</div>
+
+---
+
+## My Certificates & Achievements
+
+<table>
+<tr>
+<td width="60%">
+<div align="" >
+
+<img src="assets/Certificate1.jpg" width="700" alt="Certificate" />
+</div>
+</td>
+
+<td width="40%">
+<div align="center">
+<img src="assets/Certificate2.jpg" width="700" alt="Certificate" />
+</div>
+</td>
+</tr>
+</table>
