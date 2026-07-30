@@ -20,11 +20,7 @@ I enjoy digging into complex problems and polishing the final product until it's
 
 ### 🎨 Programming languages
 
-![Sql](https://img.shields.io/badge/sql-464451?style=for-the-badge\&logo=mysql\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-464451?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-464451?style=for-the-badge\&logo=css\&logoColor=white)
-![C#](https://img.shields.io/badge/С%23-464451?style=for-the-badge\&logo=c#\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-464451?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
+![Sql](https://img.shields.io/badge/sql-464451?style=for-the-badge\&logo=mysql\&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-464451?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-464451?style=for-the-badge\&logo=css\&logoColor=white) ![C#](https://img.shields.io/badge/С%23-464451?style=for-the-badge\&logo=c#\&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-464451?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 
 ### 🧪 Testing tools
 
@@ -66,7 +62,7 @@ I enjoy digging into complex problems and polishing the final product until it's
 
 A full QA case covering the "Employee Birthdays" module — from planning to reporting.
 
-- Built a complete test plan and checklist (32 items across 5 groups)
+- Built a complete test plan and checklist (30 items across 5 groups)
 - Wrote smoke test cases and detailed test cases with test design technique annotations
 - Used Postman to send API requests and generate test data
 - Found and reported 2 notable bugs: asymmetric birthdate validation and a documentation discrepancy on year visibility
