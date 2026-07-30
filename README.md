@@ -75,15 +75,18 @@
 <table>
 <tr>
 <td width="60%">
-<div align="" >
-
-<img src="assets/Certificate1.jpg" width="700" alt="Certificate" />
+<div align="center">
+<a href="https://stepik.org/cert/3305756?lang=en" target="_blank">
+  <img src="assets/Certificate1.jpg" width="700" alt="Certificate" />
+</a>
 </div>
 </td>
 
 <td width="40%">
 <div align="center">
-<img src="assets/Certificate2.jpg" width="700" alt="Certificate" />
+<a href="https://github.com/snkvivan/snkvivan/blob/main/assets/Certificate2.jpg" target="_blank">
+  <img src="assets/Certificate2.jpg" width="700" alt="Certificate" />
+</a>
 </div>
 </td>
 </tr>
