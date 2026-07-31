@@ -16,7 +16,7 @@ I enjoy digging into complex problems and polishing the final product until it's
 
 ## 🛠️ Languages and Tools
 
-<div>
+<div align="center">
 
 ### 🎨 Programming languages
 
@@ -27,7 +27,6 @@ I enjoy digging into complex problems and polishing the final product until it's
 ![Postman](https://img.shields.io/badge/Postman-464451?style=for-the-badge\&logo=postman\&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-464451?style=for-the-badge\&logo=swagger\&logoColor=white)
 ![SoapUI](https://img.shields.io/badge/SoapUI-464451?style=for-the-badge\&logo=soapui\&logoColor=white)
-![Fiddler](https://img.shields.io/badge/Fiddler-464451?style=for-the-badge\&logo=fiddler\&logoColor=white)
 ![Charles Proxy](https://img.shields.io/badge/Charles_Proxy-464451?style=for-the-badge\&logo=charles\&logoColor=white)
 ![Android studio](https://img.shields.io/badge/Android_Studio-464451?style=for-the-badge\&logo=\&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DevTools-464451?style=for-the-badge\&logo=googlechrome\&logoColor=white)
@@ -68,7 +67,7 @@ A full QA case covering the "Employee Birthdays" module — from planning to rep
 - Found and reported 2 notable bugs: asymmetric birthdate validation and a documentation discrepancy on year visibility
 - Delivered results as an HTML dashboard and a summary presentation
 
-**Materials:** [Test Plan (PDF)](https://drive.google.com/drive/u/1/folders/1cl5_kz0NrO80ZvmDa_C8LophoXCjWWvj) · [Checklist, Test Cases & Bug Reports (Excel)](https://docs.google.com/spreadsheets/d/1nlcM130LrX7wPDGtP8hQFS4sXjLKeEX7/edit?rtpof=true&gid=1898801877#gid=1898801877) · [Presentation](https://drive.google.com/drive/folders/1UChaR8RmbMZjHeHB0NN5IR54G2mNjOZc)
+**Materials:** [Test Plan (PDF)](https://drive.google.com/file/d/1YMhho5qT9gpaGrsaABoo6rw3mrMwV1Tu/view?usp=sharing) · [Checklist, Test Cases & Bug Reports (Excel)](https://docs.google.com/spreadsheets/d/1nlcM130LrX7wPDGtP8hQFS4sXjLKeEX7/edit?rtpof=true&gid=1898801877#gid=1898801877) · [Presentation](https://drive.google.com/file/d/1zd1rGEUK8qHugXn2V6dhAVldc3rGdFHq/view?usp=sharing)
 
 ---
 
@@ -87,7 +86,7 @@ A full QA case covering the "Employee Birthdays" module — from planning to rep
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ivansnkv-blue?style=for-the-badge&logo=telegram)](https://t.me/ivansnkv)
+[![Telegram](https://img.shields.io/badge/Telegram-@ivansnkv-blue?style=for-the-badge&logo=telegram)](https://t.me/ivansnkv )
 [![Email](https://img.shields.io/badge/Email-snkv.ivan@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:snkv.ivan@gmail.com)
 
 </div>
