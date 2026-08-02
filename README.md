@@ -2,6 +2,8 @@
 
 ![Header](assets/hello.gif)
 
+**🇬🇧 English · <a href="README_RU.md">🇷🇺 Русский</a>**
+
 </div>
 
 ---
@@ -16,7 +18,7 @@ I enjoy digging into complex problems and polishing the final product until it's
 
 ## 🛠️ Languages and Tools
 
-<div align="center">
+<div >
 
 ### 🎨 Programming languages
 
@@ -67,7 +69,7 @@ A full QA case covering the "Employee Birthdays" module — from planning to rep
 - Found and reported 2 notable bugs: asymmetric birthdate validation and a documentation discrepancy on year visibility
 - Delivered results as an HTML dashboard and a summary presentation
 
-**Materials:** [Test Plan (PDF)](https://drive.google.com/file/d/1YMhho5qT9gpaGrsaABoo6rw3mrMwV1Tu/view?usp=sharing) · [Checklist, Test Cases & Bug Reports (Excel)](https://docs.google.com/spreadsheets/d/1nlcM130LrX7wPDGtP8hQFS4sXjLKeEX7/edit?rtpof=true&gid=1898801877#gid=1898801877) · [Presentation](https://drive.google.com/file/d/1zd1rGEUK8qHugXn2V6dhAVldc3rGdFHq/view?usp=sharing)
+**Materials:** <a href="https://drive.google.com/file/d/1YMhho5qT9gpaGrsaABoo6rw3mrMwV1Tu/view?usp=sharing" target="_blank" rel="noopener noreferrer">Test Plan (PDF)</a> · <a href="https://docs.google.com/spreadsheets/d/1nlcM130LrX7wPDGtP8hQFS4sXjLKeEX7/edit?rtpof=true&gid=1898801877#gid=1898801877" target="_blank" rel="noopener noreferrer">Checklist, Test Cases & Bug Reports (Excel)</a> · <a href="https://drive.google.com/file/d/1zd1rGEUK8qHugXn2V6dhAVldc3rGdFHq/view?usp=sharing" target="_blank" rel="noopener noreferrer">Presentation</a>
 
 ---
 
@@ -86,8 +88,8 @@ A full QA case covering the "Employee Birthdays" module — from planning to rep
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@ivansnkv-blue?style=for-the-badge&logo=telegram)](https://t.me/ivansnkv )
-[![Email](https://img.shields.io/badge/Email-snkv.ivan@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:snkv.ivan@gmail.com)
+<a href="https://t.me/ivansnkv" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-@ivansnkv-blue?style=for-the-badge&logo=telegram" /></a>
+<a href="mailto:snkv.ivan@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-snkv.ivan@gmail.com-red?style=for-the-badge&logo=gmail" /></a>
 
 </div>
 
