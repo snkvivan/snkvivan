@@ -2,7 +2,7 @@
 
 ![Header](assets/hello.gif)
 
-**🇬🇧 English · <a href="README_RU.md">🇷🇺 Русский</a>**
+**EN English · <a href="README_RU.md">🇷🇺 Русский</a>**
 
 </div>
 
